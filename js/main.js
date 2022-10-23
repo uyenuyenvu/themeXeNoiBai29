@@ -398,7 +398,7 @@ Author Email:   contact@tecydevs.com
                 loop: true,
                 items: 2,
                 nav: true,
-                dots: false,
+                dots: true,
                 smartSpeed: 700,
                 autoplay: false,
                 margin: 30,
